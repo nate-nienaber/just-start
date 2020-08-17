@@ -1,6 +1,5 @@
----
-title: Master
-tags:
----
-
-## 
+## [[Brain Dump]]
+## [[Links]]
+## [[Book]] [[Articles]] [[Other Media]]
+## [[Literature Notes]]
+## [[Permanent Notes]]
